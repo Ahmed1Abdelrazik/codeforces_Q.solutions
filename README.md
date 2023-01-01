@@ -2,4 +2,4 @@
 
 my very first diagram
 
-![Diagram](http://jgraph.github.io/drawio-github/Diagram.png)
+![Diagram](Diagram.png)
