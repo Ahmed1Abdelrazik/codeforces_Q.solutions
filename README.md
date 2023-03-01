@@ -1,5 +1,1 @@
-# codeforces_Q.solutions
-
-my very first diagram
-
-![Diagram](Diagram.png)
+This Repo has some Codeforces problems and my solutions
